@@ -6,7 +6,7 @@ Aim:
  To predict the loan data by using some machine learning algorithms they are logistic regression,Decision Tree,RandomForest.
  
  
- 
+
 Attributes in the dataset:
 
 
